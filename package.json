@@ -1,0 +1,33 @@
+{
+	"name": "monokai-charcoal",
+	"displayName": "monokai-charcoal",
+	"description": "monokai-charcoal",
+	"version": "1.0.0",
+	"publisher": "74th",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/74th/vscode-monokai-charcoal"
+	},
+	"homepage": "https://github.com/74th/vscode-monokai-charcoal",
+	"engines": {
+		"vscode": "^1.3.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "monokai-charcoal(HC)",
+				"uiTheme": "hc-black",
+				"path": "./themes/Monokai-Charcoal.tmTheme"
+			},
+			{
+				"label": "monokai-charcoal(vs-dark)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-Charcoal.tmTheme"
+			}
+		]
+	}
+}
