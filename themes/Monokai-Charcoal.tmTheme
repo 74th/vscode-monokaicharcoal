@@ -210,7 +210,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#F92672</string>
 			</dict>
@@ -288,7 +288,7 @@
 				<key>background</key>
 				<string>#F92672</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#F8F8F0</string>
 			</dict>
@@ -336,6 +336,8 @@
 			<string>markup.deleted</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#F92672</string>
 				<key>foreground</key>
 				<string>#F92672</string>
 			</dict>
