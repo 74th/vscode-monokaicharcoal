@@ -17,16 +17,17 @@
 	],
 	"icon": "icon.png",
 	"contributes": {
+		"configuration": {},
 		"themes": [
 			{
 				"label": "monokai-charcoal(HC)",
 				"uiTheme": "hc-black",
-				"path": "./themes/Monokai-Charcoal.tmTheme"
+				"path": "./themes/Monokai-Charcoal.json"
 			},
 			{
 				"label": "monokai-charcoal(vs-dark)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Monokai-Charcoal.tmTheme"
+				"path": "./themes/Monokai-Charcoal.json"
 			}
 		]
 	}
