@@ -1,5 +1,5 @@
 {
-	"name": "monokai-charcoal",
+	"name": "monokai-charcoal High Contrast",
 	"displayName": "monokai-charcoal",
 	"description": "monokai-charcoal",
 	"version": "1.0.0",
@@ -22,11 +22,6 @@
 			{
 				"label": "monokai-charcoal(HC)",
 				"uiTheme": "hc-black",
-				"path": "./themes/Monokai-Charcoal.json"
-			},
-			{
-				"label": "monokai-charcoal(vs-dark)",
-				"uiTheme": "vs-dark",
 				"path": "./themes/Monokai-Charcoal.json"
 			}
 		]
