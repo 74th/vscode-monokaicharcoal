@@ -2,4 +2,4 @@
 
 * based on [Monokai Charcoal](http://colorsublime.com/theme/Monokai-Charcoal)
 
-![screenshot](screenshot.md)
+![screenshot](screenshot.png)
