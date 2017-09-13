@@ -3,7 +3,7 @@
 * based on [Monokai Charcoal](https://colorsublime.github.io/themes/Monokai%20Charcoal/)
 * some arranged color
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/74th/vscode-monokaicharcoal/raw/master/screenshot.png)
 
 ## how to use
 
