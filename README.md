@@ -1,6 +1,7 @@
-# Monokai Charcoal for vscode theme
+# Monokai Charcoal with high contrast for vscode theme
 
-* based on [Monokai Charcoal](http://colorsublime.com/theme/Monokai-Charcoal)
+* based on [Monokai Charcoal](https://colorsublime.github.io/themes/Monokai%20Charcoal/)
+* some arranged color
 
 ![screenshot](screenshot.png)
 
