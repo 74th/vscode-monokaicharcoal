@@ -262,6 +262,19 @@
 		"terminal.ansiCyan": "#a57fff",
 		"terminal.ansiBrightCyan": "#a57fff",
 		"terminal.ansiWhite": "#f1f1f1",
-		"terminal.ansiBrightWhite": "#f1f1f1"
+		"terminal.ansiBrightWhite": "#f1f1f1",
+
+		// Editor
+		"editorMarkerNavigation.background": "#060621",
+		"editorMarkerNavigationError.background": "#AB395B",
+		"editorMarkerNavigationWarning.background": "#5B7E7A",
+		"editorLink.activeForeground": "#0063a5",
+		"editor.findMatchHighlightBackground": "#eeeeee44",
+
+		"diffEditor.insertedTextBackground": "#31958A55",
+		"diffEditor.insertedTextBorder": "#31958A55",
+		"diffEditor.removedTextBackground": "#892F4688",
+		"diffEditor.removedTextBorder": "#31958A55"
+
 	}
 }
