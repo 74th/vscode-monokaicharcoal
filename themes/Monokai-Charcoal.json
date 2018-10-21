@@ -238,6 +238,7 @@
 		"editor.selectionBackground": "#6688cc",
 		"editor.selectionForeground": "#000c18",
 		"activityBar.foreground": "#43B9D8",
+		"activityBar.inactiveForeground": "#43B9D8",
 		"statusBar.foreground": "#43B9D8",
 		"statusBar.debuggingBackground": "#43B9D8",
 		"statusBar.debuggingForeground": "#000000",
