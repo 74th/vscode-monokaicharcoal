@@ -6,9 +6,9 @@
 	"publisher": "74th",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/74th/vscode-monokai-charcoal"
+		"url": "https://github.com/74th/vscode-monokaicharcoal"
 	},
-	"homepage": "https://github.com/74th/vscode-monokai-charcoal",
+	"homepage": "https://github.com/74th/vscode-monokaicharcoal",
 	"engines": {
 		"vscode": "^1.28.0"
 	},
