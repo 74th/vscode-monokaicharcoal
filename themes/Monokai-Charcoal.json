@@ -229,6 +229,15 @@
 			"settings": {
 				"foreground": "#E6DB74"
 			}
+		},
+		{
+			"name": "Language methods",
+			"scope": [
+				"variable.language"
+			],
+			"settings": {
+				"foreground": "#A6E22E"
+			}
 		}
 	],
 	"colors": {
