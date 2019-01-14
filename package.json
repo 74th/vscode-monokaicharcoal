@@ -21,7 +21,7 @@
 		"themes": [
 			{
 				"label": "monokai-chacoral(HC)",
-				"uiTheme": "hc-black",
+				"uiTheme": "vs-dark",
 				"path": "./themes/Monokai-Charcoal.json"
 			}
 		]
