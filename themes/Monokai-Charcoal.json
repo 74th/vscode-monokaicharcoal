@@ -245,8 +245,6 @@
 		"editor.selectionBackground": "#6688cc",
 		"editor.selectionForeground": "#000c18",
 		"activityBar.foreground": "#43B9D8",
-		"panelTitle.activeForeground": "#43B9D8",
-		"panelTitle.inactiveForeground": "#43B9D8",
 		"titleBar.activeForeground": "#43B9D8",
 		"terminal.ansiBlack": "#8f8f8f",
 		"terminal.ansiBrightBlack": "#8f8f8f",
@@ -290,28 +288,29 @@
 
 		"panel.background": "#000000",
 		"panel.border": "#43B9D8",
+		"panelTitle.activeForeground": "#43B9D8",
+		"panelTitle.inactiveForeground": "#43bad875",
 
 		"sideBar.background": "#000",
 		"sideBarSectionHeader.border": "#43B9D8",
 		"sideBar.border": "#43B9D8",
-		"sideBarSectionHeader.background": "#000000",
 		"sideBarTitle.foreground": "#43B9D8",
-		"sideBarSectionHeader.foreground": "#43B9D8",
 		"sideBar.foreground": "#FFFFFF",
+		"sideBarSectionHeader.background": "#000000",
+		"sideBarSectionHeader.foreground": "#43B9D8",
 
 		"badge.background": "#000000",
 		"badge.foreground": "#43B9D8",
 
 		"activityBar.background": "#000",
-		"activityBarBadge.background": "#000",
-		"activityBarBadge.foreground": "#43B9D8",
 		"activityBar.border": "#43B9D8",
 		"activityBar.inactiveForeground": "#43bad875",
+		"activityBarBadge.background": "#000",
+		"activityBarBadge.foreground": "#43B9D8",
 
 		"titleBar.activeBackground": "#000000",
 		"titleBar.border": "#43B9D8",
 		"titleBar.inactiveBackground": "#000000",
-
 		"titleBar.inactiveForeground": "#43B9D8",
 
 		"tab.border": "#43B9D8",
@@ -320,6 +319,8 @@
 		"tab.activeBorder": "#FD971F",
 		"tab.activeForeground": "#FFFFFF",
 		"tab.inactiveForeground": "#FFFFFF",
+        "tab.unfocusedActiveForeground": "#FFFFFF",
+        "tab.unfocusedInactiveForeground": "#FFFFFF",
 		"editorGroupHeader.tabsBackground": "#000000",
 		"editorGroup.border": "#43B9D8",
 		"editorGroupHeader.tabsBorder": "#000000",
