@@ -276,6 +276,7 @@
 		"foreground": "#FFFFFF",
 		"contrastActiveBorder": "#000000",
 		"focusBorder": "#FD971F",
+		"editor.lineHighlightBorder": "#FD971F",
 		"editor.background": "#000000",
 
 		"editorSuggestWidget.background": "#000000",
