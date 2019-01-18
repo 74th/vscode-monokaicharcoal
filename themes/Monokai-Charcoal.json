@@ -363,6 +363,9 @@
 
     "dropdown.border": "#43B9D8",
     "dropdown.background": "#000000",
-    "dropdown.foreground": "#FFFFFF"
+	"dropdown.foreground": "#FFFFFF",
+
+	"gitlens.trailingLineBackgroundColor": "#000000",
+	"gitlens.trailingLineForegroundColor": "#43B9D8",
   }
 }
