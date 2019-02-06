@@ -268,7 +268,7 @@
     "terminal.ansiBrightWhite": "#f1f1f1",
     "contrastBorder": "#43B9D8",
 
-		"editor.lineHighlightBorder": "#FD971F",
+    "editor.lineHighlightBorder": "#FD971F",
     "editorMarkerNavigation.background": "#060621",
     "editorMarkerNavigationError.background": "#AB395B",
     "editorMarkerNavigationWarning.background": "#5B7E7A",
@@ -321,7 +321,7 @@
     "tab.border": "#43B9D8",
     "tab.activeBackground": "#000000",
     "tab.inactiveBackground": "#000000",
-    "tab.activeBorder": "#000000",
+    "tab.activeBorder": "#FD971F",
     "tab.activeForeground": "#FFFFFF",
     "tab.inactiveForeground": "#FFFFFF",
     "tab.unfocusedActiveForeground": "#FFFFFF",
