@@ -293,6 +293,27 @@
             "settings": {
                 "foreground": "#8f8f8f"
             }
+        },
+        {
+            "scope": [
+                "punctuation.definition.template-expression.begin.js",
+                "punctuation.definition.template-expression.end.js"
+            ],
+            "settings": {
+                "foreground": "#AE81FF"
+            }
+        },
+        {
+            "scope": [
+                "variable.other.object.js",
+                "punctuation.accessor.js",
+                "meta.brace.round.js",
+                "variable.other.readwrite.js",
+                "punctuation.separator.comma.js"
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
         }
     ],
     "colors": {
