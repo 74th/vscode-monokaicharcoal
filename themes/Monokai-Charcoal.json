@@ -448,6 +448,8 @@
         "dropdown.background": "#000000",
         "dropdown.foreground": "#FFFFFF",
 
+        "quickInput.background": "#000000",
+
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#43B9D8"
     }
