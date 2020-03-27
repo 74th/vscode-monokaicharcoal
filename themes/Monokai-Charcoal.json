@@ -350,7 +350,8 @@
         "terminal.ansiBrightWhite": "#f1f1f1",
         "contrastBorder": "#43B9D8",
 
-        "editor.lineHighlightBorder": "#FD971F",
+        "editor.lineHighlightBorder": "#66D9EF75",
+        "editorLineNumber.activeForeground": "#66D9EF",
         "editorMarkerNavigation.background": "#060621",
         "editorMarkerNavigationError.background": "#AB395B",
         "editorMarkerNavigationWarning.background": "#5B7E7A",
@@ -415,8 +416,10 @@
 
         "statusBar.background": "#000000",
         "statusBar.foreground": "#43B9D8",
-        "statusBar.debuggingBackground": "#43B9D8",
-        "statusBar.debuggingForeground": "#000000",
+        "statusBar.noFolderBackground": "#000000",
+        "statusBar.noFolderForeground": "#43B9D8",
+        "statusBar.debuggingBackground": "#43B9D815",
+        "statusBar.debuggingForeground": "#43B9D8",
 
         "notificationCenter.border": "#43B9D8",
         "notifications.foreground": "#FFFFFF",
@@ -449,6 +452,10 @@
         "dropdown.foreground": "#FFFFFF",
 
         "quickInput.background": "#000000",
+
+        "list.activeSelectionBackground": "#FD971F15",
+        "list.inactiveSelectionBackground": "#66D9EF15",
+        "list.hoverBackground": "#FD971F15",
 
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#43B9D8"
