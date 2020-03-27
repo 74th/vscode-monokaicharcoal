@@ -1,4 +1,5 @@
 {
+    "$schema": "vscode://schemas/color-theme",
     "name": "Monokai Charcoal",
     "tokenColors": [
         {
@@ -22,7 +23,7 @@
         },
         {
             "name": "Comment",
-            "scope": "comment",
+            "scope": ["comment"],
             "settings": {
                 "foreground": "#FD971F"
             }
@@ -50,7 +51,7 @@
         },
         {
             "name": "User-defined constant",
-            "scope": "constant.character, constant.other",
+            "scope": ["constant.character", "constant.other"],
             "settings": {
                 "foreground": "#AE81FF"
             }
@@ -152,7 +153,7 @@
         },
         {
             "name": "Library class/type",
-            "scope": "support.type, support.class",
+            "scope": ["support.type", "support.class"],
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#66D9EF"
@@ -184,7 +185,10 @@
         },
         {
             "name": "JSON String",
-            "scope": "meta.structure.dictionary.json string.quoted.double.json",
+            "scope": [
+                "meta.structure.dictionary.json",
+                "string.quoted.double.json"
+            ],
             "settings": {
                 "foreground": "#CFCFC2"
             }
@@ -296,8 +300,8 @@
         },
         {
             "scope": [
-                "punctuation.definition.template-expression.begin.js",
-                "punctuation.definition.template-expression.end.js"
+                "punctuation.definition.template-expression.begin",
+                "punctuation.definition.template-expression.end"
             ],
             "settings": {
                 "foreground": "#AE81FF"
@@ -305,11 +309,11 @@
         },
         {
             "scope": [
-                "variable.other.object.js",
-                "punctuation.accessor.js",
-                "meta.brace.round.js",
-                "variable.other.readwrite.js",
-                "punctuation.separator.comma.js"
+                "variable.other.object",
+                "punctuation.accessor",
+                "meta.brace.round",
+                "variable.other.readwrite",
+                "punctuation.separator.comma"
             ],
             "settings": {
                 "foreground": "#FFFFFF"
