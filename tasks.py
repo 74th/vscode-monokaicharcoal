@@ -5,16 +5,16 @@ from invoke import context
 
 def build_colors():
 
-    base_colors = ["#43B9D8", "#43bad875", "#FD971F"]
+    base_colors = ["#43B9D8", "#43bad875", "#66D9EF15", "#FD971F", "#FD971F15"]
 
     features = {
-        "orange": ["#FD971F", "#FD971F75", "#e7dc60" ],
-        "green": ["#A6E22E", "#A6E22E75", "#43B9D8" ],
-        "purple": ["#AE81FF", "#AE81FF75", "#43B9D8"],
-        "yellow": ["#e7dc60", "#e7dc6075", "#FD971F"],
-        "red": ["#f82a5d", "#f82a5d75", "#e7dc60"],
-        "gray": ["#8f8f8f", "#8f8f8f75", "#43B9D8"],
-        "white": ["#f1f1f1", "#f1f1f175", "#43B9D8"],
+        "orange": ["#FD971F", "#FD971F75", "#FD971F15", "#e7dc60", "#e7dc6015"],
+        "green": ["#A6E22E", "#A6E22E75", "#A6E22E15", "#43B9D8", "#43B9D815"],
+        "purple": ["#AE81FF", "#AE81FF75", "#AE81FF15", "#43B9D8", "#43B9D815"],
+        "yellow": ["#e7dc60", "#e7dc6075", "#e7dc6015", "#FD971F", "#FD971F15"],
+        "red": ["#f82a5d", "#f82a5d75", "#f82a5d15", "#e7dc60", "#e7dc6015"],
+        "gray": ["#8f8f8f", "#8f8f8f75", "#8f8f8f15", "#43B9D8", "#43B9D815"],
+        "white": ["#f1f1f1", "#f1f1f175", "#f1f1f115", "#43B9D8", "#43B9D815"],
     }
 
     with open("themes/Monokai-Charcoal.json") as f:
