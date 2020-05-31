@@ -45,6 +45,11 @@
                 "path": "./themes/Monokai-Charcoal-yellow.json"
             },
             {
+                "label": "monokai-chacoral (green)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai-Charcoal-green.json"
+            },
+            {
                 "label": "monokai-chacoral (gray)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-Charcoal-gray.json"
@@ -55,5 +60,9 @@
                 "path": "./themes/Monokai-Charcoal-white.json"
             }
         ]
+    },
+    "devDependencies": {
+        "prettier": "^2.0.5",
+        "vsce": "^1.75.0"
     }
 }
