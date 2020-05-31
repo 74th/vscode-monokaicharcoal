@@ -382,7 +382,7 @@
         "menu.border": "#43bad875",
 
         "panel.background": "#000000",
-        "panel.dropBorder": "#43bad875",
+        "panel.dropBorder": "#43B9D8",
         "panel.border": "#43bad875",
         "panelTitle.activeForeground": "#43B9D8",
         "panelTitle.inactiveForeground": "#43bad875",
@@ -471,6 +471,7 @@
 
         "input.background": "#000000",
         "input.foreground": "#FFFFFF",
+        "input.border": "#43bad875",
         "input.placeholderForeground": "#43bad875",
 
         "checkbox.border": "#43bad875",
