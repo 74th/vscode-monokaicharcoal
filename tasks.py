@@ -1,9 +1,10 @@
 import json
 import copy
 
-from invoke import context
+from invoke import context, task
 
-def build_colors():
+@task
+def build_colors(c):
 
     base_colors = ["#43B9D8", "#43bad875", "#66D9EF15", "#FD971F", "#FD971F15"]
 
@@ -32,8 +33,12 @@ def build_colors():
         file_name = f"themes/Monokai-Charcoal-{feature_name}.json"
         with open(file_name, "w") as f:
             json.dump(theme, f)
-        context.Context().run(f"prettier --write {file_name}")
+        c.run(f"npx prettier --write {file_name}")
 
+@task
+def deploy(c):
+	c.run("npx vsce package")
+	c.run("npx vsce publish")
 
 if __name__ == "__main__":
-    build_colors()
+    build_colors(context.Context())
