@@ -20,42 +20,42 @@
         "configuration": {},
         "themes": [
             {
-                "label": "monokai-chacoral",
+                "label": "monokai-charcoal",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-Charcoal.json"
             },
             {
-                "label": "monokai-chacoral (orange)",
+                "label": "monokai-charcoal (orange)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-Charcoal-orange.json"
             },
             {
-                "label": "monokai-chacoral (purple)",
+                "label": "monokai-charcoal (purple)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-Charcoal-purple.json"
             },
             {
-                "label": "monokai-chacoral (red)",
+                "label": "monokai-charcoal (red)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-Charcoal-red.json"
             },
             {
-                "label": "monokai-chacoral (yellow)",
+                "label": "monokai-charcoal (yellow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-Charcoal-yellow.json"
             },
             {
-                "label": "monokai-chacoral (green)",
+                "label": "monokai-charcoal (green)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-Charcoal-green.json"
             },
             {
-                "label": "monokai-chacoral (gray)",
+                "label": "monokai-charcoal (gray)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-Charcoal-gray.json"
             },
             {
-                "label": "monokai-chacoral (white)",
+                "label": "monokai-charcoal (white)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-Charcoal-white.json"
             }
