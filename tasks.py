@@ -40,5 +40,9 @@ def deploy(c):
 	c.run("npx vsce package")
 	c.run("npx vsce publish")
 
+@task
+def convert_vim(c):
+    c.run("~/.gem/ruby/2.7.0/bin/tm2vim ./themes/Monokai-Charcoal.xml ./themes/Monokai-Charcoal.vim")
+
 if __name__ == "__main__":
     build_colors(context.Context())
