@@ -324,6 +324,8 @@
         "foreground": "#FFFFFF",
         "icon.foreground": "#ffffff",
         "contrastBorder": "#43bad875",
+        "contrastActiveBorder": "#00000000",
+        "focusBorder": "#43bad875",
 
         "editor.foreground": "#FFFFFF",
         "editor.background": "#000000",
@@ -360,8 +362,6 @@
 
         "titleBar.activeForeground": "#43B9D8",
 
-        "contrastActiveBorder": "#000000",
-        "focusBorder": "#43bad875",
 
         "editorSuggestWidget.background": "#000000",
         "editorSuggestWidget.foreground": "#FFFFFF",
@@ -411,21 +411,30 @@
         "titleBar.inactiveBackground": "#000000",
         "titleBar.inactiveForeground": "#43B9D8",
 
-        "tab.border": "#43bad875",
-        "tab.activeBackground": "#000000",
-        "tab.inactiveBackground": "#000000",
-        "tab.activeBorder": "#000000",
-        "tab.unfocusedActiveBorder": "#000000",
         "tab.activeForeground": "#FFFFFF",
-        "tab.activeModifiedBorder": "#43bad875",
         "tab.inactiveForeground": "#FFFFFF",
-        "tab.inactiveModifiedBorder": "#43bad875",
-        "tab.hoverBorder": "#43bad875",
         "tab.unfocusedActiveForeground": "#FFFFFF",
         "tab.unfocusedInactiveForeground": "#FFFFFF",
+
+        "tab.activeBackground": "#000000",
+        "tab.inactiveBackground": "#000000",
+        "tab.unfocusedActiveBackground": "#000000",
+        "tab.unfocusedInactiveBackground": "#000000",
+
+        "tab.hoverBackground": "#43bad825",
+        "tab.unfocusedHoverBackground": "#43bad825",
+
+        "tab.border": "#43bad875",
+        "tab.activeBorder": "#FFFFFF",
+        "tab.unfocusedActiveBorder": "#43B9D8",
+        "tab.activeModifiedBorder": "#43bad875",
+        "tab.inactiveModifiedBorder": "#43bad875",
+
+        "tab.hoverBorder": "#43bad875",
+
         "editorGroupHeader.tabsBackground": "#000000",
         "editorGroup.border": "#43bad875",
-        "editorGroupHeader.tabsBorder": "#43bad875",
+        "editorGroupHeader.tabsBorder": "#000000",
         "editorGroupHeader.border": "#000000",
         "editorGroupHeader.noTabsBackground": "#000000",
 
@@ -436,6 +445,7 @@
         "statusBar.noFolderForeground": "#43B9D8",
         "statusBar.debuggingBackground": "#43B9D815",
         "statusBar.debuggingForeground": "#43B9D8",
+        "statusBarItem.hoverBackground": "#101010",
 
         "notificationCenter.border": "#43B9D8",
         "notifications.foreground": "#FFFFFF",
