@@ -364,9 +364,9 @@
         "input.placeholderForeground": "#f82a5d75",
         "checkbox.border": "#f82a5d75",
         "quickInput.background": "#000000",
-        "list.activeSelectionBackground": "#e7dc6015",
+        "list.activeSelectionBackground": "#f82a5d75",
         "list.inactiveSelectionBackground": "#f82a5d15",
-        "list.hoverBackground": "#e7dc6015",
+        "list.hoverBackground": "#f82a5d75",
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#f82a5d",
         "terminal.border": "#f82a5d75"
