@@ -362,7 +362,6 @@
 
         "titleBar.activeForeground": "#43B9D8",
 
-
         "editorSuggestWidget.background": "#000000",
         "editorSuggestWidget.foreground": "#FFFFFF",
         "editorSuggestWidget.border": "#43B9D8",
@@ -488,9 +487,10 @@
 
         "quickInput.background": "#000000",
 
-        "list.activeSelectionBackground": "#66D9EF75",
+        "list.activeSelectionBackground": "#43bad875",
         "list.inactiveSelectionBackground": "#66D9EF15",
-        "list.hoverBackground": "#66D9EF75",
+        "list.hoverBackground": "#43bad875",
+        "list.inactiveFocusOutline": "#43B9D8",
 
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#43B9D8",

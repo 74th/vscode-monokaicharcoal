@@ -367,6 +367,7 @@
         "list.activeSelectionBackground": "#FD971F75",
         "list.inactiveSelectionBackground": "#FD971F15",
         "list.hoverBackground": "#FD971F75",
+        "list.inactiveFocusOutline": "#FD971F",
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#FD971F",
         "terminal.border": "#FD971F75"

@@ -6,16 +6,16 @@ from invoke import context, task
 @task
 def build_colors(c):
 
-    base_colors = ["#43B9D8", "#43bad875", "#43bad825", "#66D9EF15", "#FD971F", "#FD971F15", "#66D9EF75"]
+    base_colors = ["#43B9D8", "#43bad875", "#43bad825", "#66D9EF15", "#FD971F", "#FD971F15"]
 
     features = {
-        "orange": ["#FD971F", "#FD971F75", "#FD971F25", "#FD971F15", "#e7dc60", "#e7dc6015", "#FD971F75"],
-        "green ": ["#A6E22E", "#A6E22E75", "#A6E22E25", "#A6E22E15", "#43B9D8", "#43B9D815", "#A6E22E75"],
-        "purple": ["#AE81FF", "#AE81FF75", "#AE81FF25", "#AE81FF15", "#43B9D8", "#43B9D815", "#AE81FF75"],
-        "yellow": ["#e7dc60", "#e7dc6075", "#e7dc6025", "#e7dc6015", "#FD971F", "#FD971F15", "#E7DC6075"],
-        "red   ": ["#f82a5d", "#f82a5d75", "#f82a5d25", "#f82a5d15", "#e7dc60", "#e7dc6015", "#F82A5D75"],
-        "gray  ": ["#8f8f8f", "#8f8f8f75", "#8f8f8f25", "#8f8f8f15", "#43B9D8", "#43B9D815", "#8F8F8F75"],
-        "white ": ["#f1f1f1", "#f1f1f175", "#f1f1f125", "#f1f1f115", "#43B9D8", "#43B9D815", "#F1F1F175"],
+        "orange": ["#FD971F", "#FD971F75", "#FD971F25", "#FD971F15", "#e7dc60", "#e7dc6015"],
+        "green ": ["#A6E22E", "#A6E22E75", "#A6E22E25", "#A6E22E15", "#43B9D8", "#43B9D815"],
+        "purple": ["#AE81FF", "#AE81FF75", "#AE81FF25", "#AE81FF15", "#43B9D8", "#43B9D815"],
+        "yellow": ["#e7dc60", "#e7dc6075", "#e7dc6025", "#e7dc6015", "#FD971F", "#FD971F15"],
+        "red   ": ["#f82a5d", "#f82a5d75", "#f82a5d25", "#f82a5d15", "#e7dc60", "#e7dc6015"],
+        "gray  ": ["#8f8f8f", "#8f8f8f75", "#8f8f8f25", "#8f8f8f15", "#43B9D8", "#43B9D815"],
+        "white ": ["#f1f1f1", "#f1f1f175", "#f1f1f125", "#f1f1f115", "#43B9D8", "#43B9D815"],
     }
 
     with open("themes/Monokai-Charcoal.json") as f:
