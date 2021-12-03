@@ -488,9 +488,9 @@
 
         "quickInput.background": "#000000",
 
-        "list.activeSelectionBackground": "#FD971F15",
+        "list.activeSelectionBackground": "#66D9EF75",
         "list.inactiveSelectionBackground": "#66D9EF15",
-        "list.hoverBackground": "#FD971F15",
+        "list.hoverBackground": "#66D9EF75",
 
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#43B9D8",
