@@ -1,7 +1,8 @@
 import json
 import copy
 
-from invoke import context, task
+from invoke import context
+from invoke.tasks import task
 
 @task
 def build_colors(c):

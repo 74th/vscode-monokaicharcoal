@@ -274,7 +274,7 @@
         "editorHoverWidget.background": "#000000",
         "editorHoverWidget.border": "#f1f1f175",
         "editorWidget.background": "#000000",
-        "editorWidget.border": "#000000",
+        "editorWidget.border": "#f1f1f175",
         "editorIndentGuide.activeBackground": "#505050",
         "breadcrumb.foreground": "#f1f1f1",
         "menu.background": "#000000",
