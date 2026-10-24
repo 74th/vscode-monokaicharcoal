@@ -370,6 +370,9 @@
         "list.inactiveFocusOutline": "#f82a5d",
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#f82a5d",
-        "terminal.border": "#f82a5d75"
+        "terminal.border": "#f82a5d75",
+        "agents.background": "#000000",
+        "agentsPanel.background": "#000000",
+        "agentsPanel.border": "#f82a5d75"
     }
 }

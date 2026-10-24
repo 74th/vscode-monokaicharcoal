@@ -16,8 +16,12 @@
         "Themes"
     ],
     "icon": "icon.png",
+    "capabilities": {
+        "agentsWindow": {
+            "supported": true
+        }
+    },
     "contributes": {
-        "configuration": {},
         "themes": [
             {
                 "label": "monokai-charcoal",
