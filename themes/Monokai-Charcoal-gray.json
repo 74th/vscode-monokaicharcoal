@@ -322,7 +322,7 @@
         "tab.hoverBorder": "#8f8f8f75",
         "editorGroupHeader.tabsBackground": "#000000",
         "editorGroup.border": "#8f8f8f75",
-        "editorGroupHeader.tabsBorder": "#000000",
+        "editorGroupHeader.tabsBorder": "#444444",
         "editorGroupHeader.border": "#000000",
         "editorGroupHeader.noTabsBackground": "#000000",
         "statusBar.background": "#000000",
