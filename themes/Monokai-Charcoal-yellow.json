@@ -322,7 +322,7 @@
         "tab.hoverBorder": "#e7dc6075",
         "editorGroupHeader.tabsBackground": "#000000",
         "editorGroup.border": "#e7dc6075",
-        "editorGroupHeader.tabsBorder": "#000000",
+        "editorGroupHeader.tabsBorder": "#444444",
         "editorGroupHeader.border": "#000000",
         "editorGroupHeader.noTabsBackground": "#000000",
         "statusBar.background": "#000000",
@@ -370,6 +370,9 @@
         "list.inactiveFocusOutline": "#e7dc60",
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#e7dc60",
-        "terminal.border": "#e7dc6075"
+        "terminal.border": "#e7dc6075",
+        "agents.background": "#000000",
+        "agentsPanel.background": "#000000",
+        "agentsPanel.border": "#e7dc6075"
     }
 }
